@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="PRI.Essentials.OpenFilesWithErrors.761e0615-1d7d-48f7-8431-e9e53a0c1735" Version="1.1" Language="en-US" Publisher="Peter Ritchie" />
+        <Identity Id="PRI.Essentials.OpenFilesWithErrors.761e0615-1d7d-48f7-8431-e9e53a0c1735" Version="1.2" Language="en-US" Publisher="Peter Ritchie" />
         <DisplayName>PRI Essentials - Open Files With Errors</DisplayName>
         <Description xml:space="preserve">Adds a File menu item to open all the files with errors: files listed in the Error List pane.
+
+Changes since 1.1:
+- updated binary version # to avoid warning on upgrade.
 
 Changes since 1.0:
 - Added support for Visual Studio 19 (Visual Studio 2026)</Description>

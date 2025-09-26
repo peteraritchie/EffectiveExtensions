@@ -11,7 +11,7 @@ namespace OpenFilesWithErrors
         public const string Name = "OpenFilesWithErrors";
         public const string Description = @"Adds a File menu item to open all the files with errors: files listed in the Error List pane.";
         public const string Language = "en-US";
-        public const string Version = "1.1";
+        public const string Version = "1.2";
         public const string Author = "Peter Ritchie";
         public const string Tags = "";
     }
