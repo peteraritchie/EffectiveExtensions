@@ -9,9 +9,9 @@ namespace OpenFilesWithErrors
     {
         public const string Id = "OpenFilesWithErrors.761e0615-1d7d-48f7-8431-e9e53a0c1735";
         public const string Name = "OpenFilesWithErrors";
-        public const string Description = @"Empty VSIX Project.";
+        public const string Description = @"Adds a File menu item to open all the files with errors: files listed in the Error List pane.";
         public const string Language = "en-US";
-        public const string Version = "1.0";
+        public const string Version = "1.1";
         public const string Author = "Peter Ritchie";
         public const string Tags = "";
     }
